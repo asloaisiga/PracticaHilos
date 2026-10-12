@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
@@ -9,7 +8,6 @@
       fx:controller="ni.edu.uam.practicahilos.hilos.ProcesadorController"
       alignment="CENTER" spacing="20"
       prefWidth="550" prefHeight="430">
-
     <padding>
         <Insets top="25" right="25" bottom="25" left="25"/>
     </padding>
