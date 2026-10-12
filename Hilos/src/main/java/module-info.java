@@ -5,4 +5,6 @@ module ni.edu.uam.practicahilos.hilos {
 
     opens ni.edu.uam.practicahilos.hilos to javafx.fxml;
     exports ni.edu.uam.practicahilos.hilos;
+
+
 }
